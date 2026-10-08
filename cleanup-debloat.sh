@@ -27,6 +27,7 @@ debloat=(
     "com.transsion.carlcare"
     "com.transsion.childmode"
     "com.transsion.childmode.resoverlay"
+    "com.transsion.chromecustomization"
     "com.transsion.filemanagerx"
     "com.transsion.fmradio"
     "com.transsion.hamal"
